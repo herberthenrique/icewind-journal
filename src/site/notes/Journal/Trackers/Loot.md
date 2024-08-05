@@ -1,0 +1,18 @@
+---
+{"dg-publish":true,"permalink":"/journal/trackers/loot/","hideInGraph":true}
+---
+
+| Loot                        | Description                                                | Session                        |
+| --------------------------- | ---------------------------------------------------------- | ------------------------------ |
+| 24cp                        | Reward for fishing.                                        | [[Journal/Sessions/01\|01]] |
+| 5gp                         | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]] | [[Journal/Sessions/01\|01]] |
+| Scroll of Animal Friendship | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]] | [[Journal/Sessions/01\|01]] |
+| \-                          | \-                                                         | [[Journal/Sessions/02\|02]] |
+
+{ .block-language-dataview}
+
+---
+
+**[[Journal/Trackers/Chronicles\|Chronicles]] | [[Journal/Trackers/Quests\|Quests]] |  [[Journal/Trackers/Characters\|Characters]]  | [[Journal/Trackers/Loot\|Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/b92ff6b73ed0d08bb329405ca22ef86f)**
+
+[[Icewind Dale -  The Rime of of the Frostmaiden\| Return to homepage.]]

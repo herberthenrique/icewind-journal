@@ -1,0 +1,16 @@
+---
+{"dg-publish":true,"permalink":"/journal/trackers/chronicles/","hideInGraph":true}
+---
+
+| Session                        | Chronicle                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/02\|02]] | Pipper and Drek Thar reunite with Hlin in Bryn Shander, facing new mysteries and old foes while aiding a desperate mother, before ultimately confronting the villainous Sephek Kaltro in Targos.                                                                                                                                                                                                                                                                                                                                                                                 |
+| [[Journal/Sessions/01\|01]] | The adventure begins with an investigation into a series of murders in Ten Towns, leading the party to follow a suspicious bodyguard to the town of Bremen. There, they uncover a mystery involving disappearances and strange occurrences near the river. While posing as fishermen, they encounter a mind-controlled water creature threatening the town. The party manages to communicate with the creature and learn of its plight, but the adventure is far from over as they delve deeper into the mysteries surrounding the murders and the cult behind the mind control. |
+
+{ .block-language-dataview}
+
+---
+
+**[[Journal/Trackers/Chronicles\|Chronicles]] | [[Journal/Trackers/Quests\|Quests]] |  [[Journal/Trackers/Characters\|Characters]]  | [[Journal/Trackers/Loot\|Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/b92ff6b73ed0d08bb329405ca22ef86f)**
+
+[[Icewind Dale -  The Rime of of the Frostmaiden\| Return to homepage.]]
