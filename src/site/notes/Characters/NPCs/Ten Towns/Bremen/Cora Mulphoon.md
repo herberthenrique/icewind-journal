@@ -7,6 +7,7 @@
 > **Innkeeper of Buried Treasures**
 > Middle-aged Human Woman
 > Anxious,Hospitable,Kind 
+> ![npc_cora.png|300](/img/user/_attachments/npcs/npc_cora.png)
 
 | § | Interactions |
 | - | ------------ |

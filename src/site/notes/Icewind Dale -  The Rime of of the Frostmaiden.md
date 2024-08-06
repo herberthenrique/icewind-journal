@@ -7,4 +7,5 @@
 **[[Journal/Trackers/Chronicles\|Chronicles]] | [[Journal/Trackers/Quests\|Quests]] |  [[Journal/Trackers/Characters\|Characters]]  | [[Journal/Trackers/Loot\|Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/b92ff6b73ed0d08bb329405ca22ef86f)**
 
 ## Map 
- | [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
+ [Interactive map](https://www.aidedd.org/atlas/index.php?map=I&l=1)
+![map-poster.jpg](/img/user/_attachments/maps/map-poster.jpg)

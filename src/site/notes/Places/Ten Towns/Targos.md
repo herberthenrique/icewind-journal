@@ -23,11 +23,11 @@ Large, central tavern and old inn run by [[Characters/NPCs/Ten Towns/Targos/Owen
 ## Three Flags Sailing
 Tavern ran by [[Characters/NPCs/Ten Towns/Targos/Ethen Ma Tarbroul\|Ethen Ma Tarbroul]]. 
 ## Torg's Warehouse
-[[Characters/NPCs/Ten Towns/Targos/Torg\|Torg]] Merchant Company's main warehouse. The [[Lore/Peoples/Zhentarim\|Lore/Peoples/Zhentarim]] seem to fence some goods through here.
+[[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Characters/NPCs/Ten Towns/Targos/Torrga Icevein]] Merchant Company's main warehouse. The [[Lore/Peoples/Zhentarim\|Lore/Peoples/Zhentarim]] seem to fence some goods through here.
 
 # Happenings
-| §                              | Details                                                                                                      |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torg\|Torg]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
+| §                              | Details                                                                                                                                                 |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Characters/NPCs/Ten Towns/Targos/Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
 
 { .block-language-dataview}

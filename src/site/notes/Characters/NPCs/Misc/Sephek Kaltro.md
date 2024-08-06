@@ -10,8 +10,8 @@
 > ![rotf_23_sephek_kaltro.png](/img/user/_attachments/misc/rotf_23_sephek_kaltro.png)
 
 
-| §                              | Interactions                                                                                                 |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------ |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torg\|Torg]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
+| §                              | Interactions                                                                                                                                            |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Characters/NPCs/Ten Towns/Targos/Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
 
 { .block-language-dataview}

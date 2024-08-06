@@ -7,6 +7,7 @@
 > **Scrimshander Artist**
 > Adult Human Man
 > Cheerful,Detail-Oriented,Disabled 
+> ![npc_keegan.png|300](/img/user/_attachments/npcs/npc_keegan.png)
 
 
 | § | Interactions |
