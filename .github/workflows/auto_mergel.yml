@@ -23,5 +23,5 @@ jobs:
         run: |
           git fetch origin deploy:deploy
           git checkout deploy
-          git merge main --no-ff -m "Merge main to deploy"
-          git push origin deploy
+          git rebase origin/main
+          git push -f origin deploy
