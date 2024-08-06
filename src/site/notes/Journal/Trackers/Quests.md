@@ -9,6 +9,7 @@ Quests are represented by tags throughout this vault. Here are all the tags, sor
 
 | Quest Tag             | Session                        |
 | --------------------- | ------------------------------ |
+| #BlackSwords(1)       | [[Journal/Sessions/02\|02]] |
 | #ColdHeartedKiller(1) | [[Journal/Sessions/02\|02]] |
 | #TheUnseen(1)         | [[Journal/Sessions/02\|02]] |
 | #LakeMonster(1)       | [[Journal/Sessions/01\|01]] |
@@ -21,10 +22,19 @@ Quests are represented by tags throughout this vault. Here are all the tags, sor
 ## Open Quests
 
 ### Cold Hearted Killer
-| Session                        |                                                                                                                                                         |
-| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Characters/NPCs/Ten Towns/Targos/Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller  The party could                                                                                                                     |
+| Session                        |                                                                                                                        |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller  The party could defeat [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]]                                                           |
+
+{ .block-language-dataview}
+
+
+
+### Black Swords
+| Session                        |                                                                                                                                                                             |
+| ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/02\|02]] | #BlackSwords the party received a desesperate request from [[Characters/NPCs/Ten Towns/Bremen/Cora Mulphoon\|Cora Mulphoon]] to talk with her son [[Characters/NPCs/Ten Towns/Caer Dineval/Huarwar Mulphoon\|Huarwar Mulphoon]] in some castle on [[Places/Ten Towns/Caer Konig\|Caer Konig]] or [[Places/Ten Towns/Caer Dineval\|Caer Dineval]] |
 
 { .block-language-dataview}
 
