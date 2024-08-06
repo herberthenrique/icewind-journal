@@ -19,9 +19,7 @@ jobs:
           git config --global user.name 'github-actions'
           git config --global user.email 'github-actions@github.com'
 
-      - name: Merge and push
+      - name: Recreate branch
         run: |
-          git fetch origin deploy:deploy
-          git checkout deploy
-          git rebase origin/main
-          git push -f origin deploy
+          git checkout -b deploy
+          git push origin deploy -f
