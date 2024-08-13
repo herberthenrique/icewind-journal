@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/characters/np-cs/ten-towns/targos/keegan-velryn/"}
+{"dg-publish":true,"permalink":"/characters/np-cs/ten-towns/targos/garret-velryn/"}
 ---
 
 >[!multi-column]
->> [!info|wide-3|fit-height] **Keegan Velryn**
+>> [!info|wide-3|fit-height] **Garret Velryn**
 >> <span style="font-size: 0.8rem;">Adult Human Man</span>
 >>
 >>**Role**:
->><span style="font-size: 0.8rem;">Scrimshander Artist</span>
+>><span style="font-size: 0.8rem;">Wilderness Guide</span>
 >>
 >>**Status**:
 >><span style="font-size: 0.8rem;">Alive</span> 
@@ -15,10 +15,10 @@
 >>**Last Location**:
 >><span style="font-size: 0.8rem;">[[Places/Ten Towns/Targos\|Targos]]</span>
 >>  ---
->>  <span style="font-size: 0.8rem;">Cheerful,Detail-Oriented,Disabled</span>
+>>  <span style="font-size: 0.8rem;">Rugged,Loyal,Weathered</span>
 >
 >> [!blank-container]
->> ![npc_keegan.png](/img/user/_attachments/npcs/npc_keegan.png)
+>> ![npc_garret.png](/img/user/_attachments/npcs/npc_garret.png)
 > 
 
 

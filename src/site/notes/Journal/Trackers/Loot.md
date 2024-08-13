@@ -15,4 +15,4 @@
 
 **[[Journal/Trackers/Chronicles\|Chronicles]] | [[Journal/Trackers/Quests\|Quests]] |  [[Journal/Trackers/Characters\|Characters]]  | [[Journal/Trackers/Loot\|Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/b92ff6b73ed0d08bb329405ca22ef86f)**
 
-[[Icewind Dale -  The Rime of of the Frostmaiden\| Return to homepage.]]
+[[Icewind Journal\| Return to homepage.]]

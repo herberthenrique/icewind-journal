@@ -28,6 +28,6 @@ Tavern ran by [[Characters/NPCs/Ten Towns/Targos/Ethen Ma Tarbroul\|Ethen Ma Tar
 # Happenings
 | §                              | Details                                                                                                                |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
 
 { .block-language-dataview}

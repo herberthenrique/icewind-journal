@@ -24,7 +24,7 @@ Quests are represented by tags throughout this vault. Here are all the tags, sor
 ### Cold Hearted Killer
 | Session                        |                                                                                                                        |
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
-| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
+| [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
 | [[Journal/Sessions/02\|02]] | #ColdHeartedKiller  The party could defeat [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]]                                                           |
 
 { .block-language-dataview}
@@ -61,4 +61,4 @@ Quests are represented by tags throughout this vault. Here are all the tags, sor
 
 **[[Journal/Trackers/Chronicles\|Chronicles]] | [[Journal/Trackers/Quests\|Quests]] |  [[Journal/Trackers/Characters\|Characters]]  | [[Journal/Trackers/Loot\|Loot]] | [Calendar](https://app.fantasy-calendar.com/calendars/b92ff6b73ed0d08bb329405ca22ef86f)**
 
-[[Icewind Dale -  The Rime of of the Frostmaiden\| Return to homepage.]]
+[[Icewind Journal\| Return to homepage.]]

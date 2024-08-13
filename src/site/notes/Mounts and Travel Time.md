@@ -20,17 +20,16 @@
 - **Saddlebags.** Can be used to store a modest amount of cargo on a mount.
 - **Bit and bridle.** Standard gear to help direct a mount. 
 
-| Mounts and Equipment | Price (gp) | Weight (lbs) |
-| -------------------- | ---------- | ------------ |
-| Axebeak              | 50         | NA           |
-| Dog                  | 30         | NA           |
-| Sled                 | 20         | NA           |
-| Barding              | x4         | x2           |
-| Bit and bridle       | 2          | 1            |
-| Saddle, Riding       | 10         | 25           |
-| Saddle, Military     | 20         | 30           |
-| Saddlebags           | 4          | 8            |
-
+| Mounts and Equipment | Price (gp) | Weight (lbs) | 90+40 |
+| -------------------- | ---------- | ------------ | ----- |
+| Axebeak              | 50         | NA           |       |
+| Dog                  | 30         | NA           |       |
+| Sled                 | 20         | NA           |       |
+| Barding              | x4         | x2           |       |
+| Bit and bridle       | 2          | 1            |       |
+| Saddle, Riding       | 10         | 25           |       |
+| Saddle, Military     | 20         | 30           |       |
+| Saddlebags           | 4          | 8            |       |
 
 # Book Info on Wilderness Travel
 **Mountain Travel.** At the end of each hour, the character or NPC leading the expedition must make a DC 15 Wisdom (Survival) check. On a successful check, the hour’s journey was not hindered by weather or terrain. On a  failed check, the party comes to an impasse and must backtrack, which costs an extra hour of travel. If the check fails by 5 or more, the party is caught in an avalanche as it backtracks. The avalanche starts 2d6 x 100 feet above the characters (see “Avalanches,” page 10).
