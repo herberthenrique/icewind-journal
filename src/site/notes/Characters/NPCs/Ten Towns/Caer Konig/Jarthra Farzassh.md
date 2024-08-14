@@ -24,8 +24,9 @@
 
 ````ad-example
 title: Mentions in Session Notes
-| § | Interactions |
-| - | ------------ |
+| §                              | Interactions                                                                                                                             |
+| ------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb The party get support from [[Atenas Swift]] and [[Jarthra Farzassh]] to find where to start looking for [[Garret Velryn]] |
 
 { .block-language-dataview}
 ````

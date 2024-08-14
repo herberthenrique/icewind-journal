@@ -7,12 +7,13 @@
 # Quest Tag Overview
 Quests are represented by tags throughout this vault. Here are all the tags, sorted by recency.
 
-| Quest Tag             | Session                        |
-| --------------------- | ------------------------------ |
-| #BlackSwords(1)       | [[Journal/Sessions/02\|02]] |
-| #ColdHeartedKiller(1) | [[Journal/Sessions/02\|02]] |
-| #TheUnseen(1)         | [[Journal/Sessions/02\|02]] |
-| #LakeMonster(1)       | [[Journal/Sessions/01\|01]] |
+| Quest Tag             | Session                                                        |
+| --------------------- | -------------------------------------------------------------- |
+| #ColdHeartedKiller(2) | [[Journal/Sessions/03\|03]], [[Journal/Sessions/02\|02]] |
+| #MountainClimb(1)     | [[Journal/Sessions/03\|03]]                                 |
+| #BlackSwords(1)       | [[Journal/Sessions/02\|02]]                                 |
+| #TheUnseen(1)         | [[Journal/Sessions/02\|02]]                                 |
+| #LakeMonster(1)       | [[Journal/Sessions/01\|01]]                                 |
 
 { .block-language-dataview}
 
@@ -26,6 +27,7 @@ Quests are represented by tags throughout this vault. Here are all the tags, sor
 | ------------------------------ | ---------------------------------------------------------------------------------------------------------------------- |
 | [[Journal/Sessions/02\|02]] | #ColdHeartedKiller The Party were able to track and meet with [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Torrga Icevein]] and [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] into [[Places/Ten Towns/Targos\|Targos]] |
 | [[Journal/Sessions/02\|02]] | #ColdHeartedKiller  The party could defeat [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]]                                                           |
+| [[Journal/Sessions/03\|03]] | #ColdHeartedKiller The party received their reward from [[Characters/NPCs/Ten Towns/Bryn Shander/Hlin Trollbane\|Hlin Trollbane]] and completed the quest                     |
 
 { .block-language-dataview}
 

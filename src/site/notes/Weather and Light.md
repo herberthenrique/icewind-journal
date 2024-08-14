@@ -3,8 +3,20 @@
 ---
 
 # Weather Hex Flower
-![Weather Hex Flower Revised.jpg](/img/user/_attachments/Weather%20Hex%20Flower%20Revised.jpg)
 
+```leaflet 
+id: leaflet-map
+image: [[Weather Hex Flower Revised.jpg]] 
+height: 500px 
+lat: 50 
+long: 50 
+minZoom: 5
+maxZoom: 10
+defaultZoom: 7
+unit: meters 
+scale: 1 marker: 
+default, 39.983334, -82.983330
+```
 ## How it works
 
 1. Determine your starting hex. It might be whatever the last weather event was in your story, or a blizzard if you’ve come out of quest.

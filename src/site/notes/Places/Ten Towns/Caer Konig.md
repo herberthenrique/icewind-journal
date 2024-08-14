@@ -18,6 +18,7 @@
 # Happenings
 | §                              | Details                                                                                                                                                                     |
 | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/03\|03]] | #MountainClimb The party found [[Characters/NPCs/Ten Towns/Targos/Boy\|Boy]] who guide them to [[Characters/NPCs/Ten Towns/Targos/Keegan Velryn\|Keegan Velryn]] asked help to find his husband [[Characters/NPCs/Ten Towns/Targos/Garret Velryn\|Garret Velryn]] in [[Places/Kelvin's Cairn\|Kelvin's Cairn]] or [[Places/Ten Towns/Caer Konig\|Caer Konig]]         |
 | [[Journal/Sessions/02\|02]] | #TheUnseen The Party heard rumors of invisible thieves plaguing Caer Konig.                                                                                                 |
 | [[Journal/Sessions/02\|02]] | #BlackSwords the party received a desesperate request from [[Characters/NPCs/Ten Towns/Bremen/Cora Mulphoon\|Cora Mulphoon]] to talk with her son [[Characters/NPCs/Ten Towns/Caer Dineval/Huarwar Mulphoon\|Huarwar Mulphoon]] in some castle on [[Places/Ten Towns/Caer Konig\|Caer Konig]] or [[Places/Ten Towns/Caer Dineval\|Caer Dineval]] |
 

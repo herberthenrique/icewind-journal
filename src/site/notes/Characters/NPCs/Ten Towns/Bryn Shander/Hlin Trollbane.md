@@ -26,6 +26,7 @@
 title: Mentions in Session Notes
 | §                              | Interactions                                                                                                               |
 | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/03.md\|03]] | #ColdHeartedKiller The party received their reward from [[Hlin Trollbane]] and completed the quest                         |
 | [[Journal/Sessions/01.md\|01]] | #ColdHeartedKiller The party received the quest [[Cold-Hearted Killer]] from [[Hlin Trollbane]] to found [[Sephek Kaltro]] |
 
 { .block-language-dataview}

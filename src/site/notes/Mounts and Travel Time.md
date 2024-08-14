@@ -11,7 +11,10 @@
 > [!tip]+ Carry Capacity and Pulling Strength
 > Carrying capacity for a creature is 15 times their base Strength. A large creature or beast of burden can carry twice this amount. An animal pulling a carriage, cart, chariot, sled, or wagon can move weight up to five times its base carrying capacity, including the weight of the vehicle. If multiple animals pull the same vehicle, they can add their carrying capacity together.
 
+## Axe Beak
 ![axe_beak.png](/img/user/_attachments/statblocks/axe_beak.png)
+
+## Dogs
 ![wolf_or_sled_dog.png](/img/user/_attachments/statblocks/wolf_or_sled_dog.png)
 
 ## Equipment for mounts

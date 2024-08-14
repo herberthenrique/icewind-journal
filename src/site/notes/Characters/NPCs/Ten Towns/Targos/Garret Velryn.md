@@ -24,8 +24,12 @@
 
 ````ad-example
 title: Mentions in Session Notes
-| § | Interactions |
-| - | ------------ |
+| §                              | Interactions                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb The party found [[Boy]] who guide them to [[Keegan Velryn]] asked help to find his husband [[Garret Velryn]] in [[Kelvin's Cairn]] or [[Caer Konig]] |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb The party get support from [[Atenas Swift]] and [[Jarthra Farzassh]] to find where to start looking for [[Garret Velryn]]                            |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb The party found [[Garret Velryn]] alive and survided the attack of two Crag Cats                                                                     |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb [[Garret Velryn]] asked help to find [[Perilou  Fishfinger]], [[Mokingo Growling Bear Akannathi]] and [[Astrix]]                                     |
 
 { .block-language-dataview}
 ````

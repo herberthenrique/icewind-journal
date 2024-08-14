@@ -24,8 +24,9 @@
 
 ````ad-example
 title: Mentions in Session Notes
-| § | Interactions |
-| - | ------------ |
+| §                              | Interactions                                                                                                                                                        |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Journal/Sessions/03.md\|03]] | #MountainClimb The party found [[Boy]] who guide them to [[Keegan Velryn]] asked help to find his husband [[Garret Velryn]] in [[Kelvin's Cairn]] or [[Caer Konig]] |
 
 { .block-language-dataview}
 ````
