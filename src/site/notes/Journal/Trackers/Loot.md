@@ -2,12 +2,13 @@
 {"dg-publish":true,"permalink":"/journal/trackers/loot/","hideInGraph":true}
 ---
 
-| Loot                        | Description                                                | Session                        |
-| --------------------------- | ---------------------------------------------------------- | ------------------------------ |
-| 24cp                        | Reward for fishing.                                        | [[Journal/Sessions/01\|01]] |
-| 5gp                         | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]] | [[Journal/Sessions/01\|01]] |
-| Scroll of Animal Friendship | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]] | [[Journal/Sessions/01\|01]] |
-| \-                          | \-                                                         | [[Journal/Sessions/02\|02]] |
+| Loot                        | Description                                                                                               | Session                        |
+| --------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| 24cp                        | Reward for fishing.                                                                                       | [[Journal/Sessions/01\|01]] |
+| 5gp                         | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]]                                                | [[Journal/Sessions/01\|01]] |
+| Scroll of Animal Friendship | Reward for giving details of the #LakeMonster  to [[Characters/NPCs/Ten Towns/Bremen/Tali\|Tali]]                                                | [[Journal/Sessions/01\|01]] |
+| \-                          | \-                                                                                                        | [[Journal/Sessions/02\|02]] |
+| 65gp for each (390gp total) | Reward from [[Characters/NPCs/Ten Towns/Bryn Shander/Hlin Trollbane\|Hlin Trollbane]] to have killed [[Characters/NPCs/Misc/Sephek Kaltro\|Sephek Kaltro]] and solved the #ColdHeartedKiller mistery | [[Journal/Sessions/03\|03]] |
 
 { .block-language-dataview}
 

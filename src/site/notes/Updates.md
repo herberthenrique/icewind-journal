@@ -7,10 +7,11 @@
 ## Updates
 | Files updated in the last 2 weeks                                                            |                            |
 | -------------------------------------------------------------------------------------------- | -------------------------- |
+| [[Journal/Sessions/03\|03]]                                                               | 11:09 AM - August 14, 2024 |
+| [[Journal/Sessions/01\|01]]                                                               | 11:06 AM - August 14, 2024 |
+| [[Journal/Sessions/02\|02]]                                                               | 11:06 AM - August 14, 2024 |
 | [[Characters/NPCs/Misc/Astrix\|Astrix]]                                                   | 11:03 AM - August 14, 2024 |
 | [[Mounts and Travel Time\|Mounts and Travel Time]]                                        | 11:00 AM - August 14, 2024 |
-| [[Journal/Sessions/02\|02]]                                                               | 10:44 AM - August 14, 2024 |
-| [[Journal/Sessions/01\|01]]                                                               | 10:44 AM - August 14, 2024 |
 | [[Characters/NPCs/Misc/Mokingo Growling Bear Akannathi\|Mokingo Growling Bear Akannathi]] | 10:42 AM - August 14, 2024 |
 | [[Weather and Light\|Weather and Light]]                                                  | 10:33 AM - August 14, 2024 |
 | [[Characters/NPCs/Ten Towns/Targos/Torrga Icevein\|Torrga Icevein]]                       | 3:21 PM - August 13, 2024  |
